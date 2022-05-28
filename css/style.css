@@ -9,9 +9,9 @@ div#root {
   }
 
   body {
-    background: white; /* Цвет фона */
+    background: black; /* Цвет фона */
     color: #fc0; /* Цвет текста */
-    font-size: 20px; /* размер текста */
+    font-size: 10px; /* размер текста */
    }
 
    /* canvas {
