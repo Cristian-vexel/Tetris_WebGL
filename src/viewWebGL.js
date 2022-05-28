@@ -83,7 +83,7 @@ export default class View {
         let info2 = document.querySelector('#info2');
         info2.innerHTML = '-----------------------------';
         let info3 = document.querySelector('#info3');
-        info3.innerHTML = 'https://github.com/Konstantin84UKR/Tetris_WebGL';
+        info3.innerHTML = 'https://github.com/Cristian-vexel/Tetris_WebGL';
     }
 
 
